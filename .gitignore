@@ -1,3 +1,4 @@
 venv
 env
 *.sqlite3
+core/secret.py
